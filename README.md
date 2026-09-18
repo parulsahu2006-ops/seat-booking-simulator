@@ -145,6 +145,6 @@ java -cp out booking.Main
 
 ## Author
 
-Tuba Gulfen Qureshi
-B.Tech CSE (AI ML), VIT Bhopal University
+Parul Kumari
+B.Tech CSE (CyberSecurity and DigitalForensics), VIT Bhopal University
 Course: Programming in Java
